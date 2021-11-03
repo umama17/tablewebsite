@@ -1,0 +1,21 @@
+
+h1{
+    color: rgb(0,0,255);
+    
+    line-height:200%;
+    text-align: center;
+     background-color:#f3971b;
+    text-indent:50px;
+    text-shadow: 5px 3px 5px lime ;
+    text-transform:capitalize;
+    word-spacing:20px;
+
+    
+}
+
+p{
+   text-align: justify; 
+   font-size:20px;
+    background-color:#00ff00;
+
+
